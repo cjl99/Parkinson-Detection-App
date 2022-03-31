@@ -1,0 +1,5 @@
+/dataset
+/venv
+/weights/spatial_weights/
+/weights/temporal_weights/
+/.idea
